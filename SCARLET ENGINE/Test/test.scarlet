@@ -1,0 +1,5 @@
+func add a b
+	result = sys 1 a b
+	return result
+
+add 3 6
